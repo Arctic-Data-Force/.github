@@ -11,6 +11,6 @@
 - Теги: `Computer Vision`, `Optical Character Recognition`
 
 **08-10.09.2023 – 3 место на хакатоне "Цифровой прорыв. Сезон: Искусственный интеллект" (Всероссийский)**
-- Кейс: [`TopBlog`](https://github.com/Arctic-Data-Force/rutube)
+- Кейс: [`Rutube`](https://github.com/Arctic-Data-Force/rutube)
 - Стек: ruBERT, LightFM
 - Теги: `Recommendation system`
