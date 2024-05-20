@@ -15,7 +15,7 @@
 - Стек: ruBERT, LightFM
 - Теги: `Recommendation system`
 
-**17-19.09.2024 – 1 место на хакатоне "Цифровой прорыв. Сезон: Искусственный интеллект" (УФО)**
+**17-19.05.2024 – 1 место на хакатоне "Цифровой прорыв. Сезон: Искусственный интеллект" (УФО)**
 - Кейс: [`oleni_minpriroda`](https://github.com/Arctic-Data-Force/oleni_minpriroda)
 - Стек: YOLOv8, PyQt6
 - Теги: `Computer Vision`, `Object Detection`
